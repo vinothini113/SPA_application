@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<users>
+  <user>
+    <id>1</id>
+    <username>admin</username>
+    <password>$2a$10$Ybx9YEpKawDSqyTEoqS5h.nxbELmV6DOxZzMaOVTb1tLTdgM7aD9a</password>
+    <role>Admin</role>
+    <email>admin@example.com</email>
+    <fullName>System Administrator</fullName>
+    <lastLogin>2025-08-30T19:31:28.027Z</lastLogin>
+  </user>
+  <user>
+    <id>2</id>
+    <username>Vinothini</username>
+    <password>$2a$10$QhIlFq2eoZ4bNIU3jnGGy.LfuH.sCQg8RYOS3li1ylqU8u8Yif3Ve</password>
+    <role>General User</role>
+    <email>Vino@gmail.com</email>
+    <fullName>Vinothini Dayalan</fullName>
+    <lastLogin>2025-08-30T19:00:40.906Z</lastLogin>
+  </user>
+  <user>
+    <id>3</id>
+    <username>Yukesh</username>
+    <password>$2a$10$QhIlFq2eoZ4bNIU3jnGGy.LfuH.sCQg8RYOS3li1ylqU8u8Yif3Ve</password>
+    <role>General User</role>
+    <email>Yukesh@gmail.com</email>
+    <fullName>Yukesh Kumar</fullName>
+    <lastLogin>2025-08-30T19:00:40.906Z</lastLogin>
+  </user>
+  <user>
+    <id>4</id>
+    <username>Kumar</username>
+    <password>$2a$10$QhIlFq2eoZ4bNIU3jnGGy.LfuH.sCQg8RYOS3li1ylqU8u8Yif3Ve</password>
+    <role>General User</role>
+    <email>Kumar@gmail.com</email>
+    <fullName>Kumar</fullName>
+    <lastLogin>2025-08-30T19:07:31.199Z</lastLogin>
+  </user>
+  <user>
+    <id>5</id>
+    <username>Suji</username>
+    <password>$2a$10$QhIlFq2eoZ4bNIU3jnGGy.LfuH.sCQg8RYOS3li1ylqU8u8Yif3Ve</password>
+    <role>General User</role>
+    <email>Suji@gmail.com</email>
+    <fullName>Sujitha</fullName>
+    <lastLogin>2025-08-30T19:00:40.906Z</lastLogin>
+  </user>
+</users>
