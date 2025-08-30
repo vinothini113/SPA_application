@@ -32,11 +32,15 @@ A modern Single Page Application (SPA) built with Angular 12+ and Node.js backen
 
 ### Admin Users
 - **Username**: `admin` | **Password**: `admin123` | **Role**: Admin
-- **Username**: `manager` | **Password**: `manager123` | **Role**: Admin
+
 
 ### General Users
-- **Username**: `user1` | **Password**: `user123` | **Role**: General User
-- **Username**: `user2` | **Password**: `user123` | **Role**: General User
+- **Username**: `Vinothini` | **Password**: `user123` | **Role**: General User
+- **Username**: `Yukesh` | **Password**: `user123` | **Role**: General User
+- **Username**: `Kumar` | **Password**: `user123` | **Role**: General User
+- **Username**: `Suji` | **Password**: `user123` | **Role**: General User
+
+
 
 ## Prerequisites
 
